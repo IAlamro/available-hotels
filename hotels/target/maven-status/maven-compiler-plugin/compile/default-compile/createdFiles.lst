@@ -1,0 +1,17 @@
+com\majid\availablehotels\business\entities\besthotels\BestHotelsResponse$BestHotelsResponseBuilder.class
+com\majid\availablehotels\business\converters\besthotels\BestHotelsResponseConverterImpl.class
+com\majid\availablehotels\business\entities\HotelsProviderImpl.class
+com\majid\availablehotels\business\entities\crazyhotels\CrazyHotelsRequest.class
+com\majid\availablehotels\business\entities\AvailableHotelsRequest$AvailableHotelsRequestBuilder.class
+com\majid\availablehotels\business\entities\besthotels\BestHotelsRequest$BestHotelsRequestBuilder.class
+com\majid\availablehotels\business\entities\besthotels\BestHotelsResponse.class
+com\majid\availablehotels\business\converters\crazyhotels\CrazyHotelsRequestConverterImpl.class
+com\majid\availablehotels\business\entities\crazyhotels\CrazyHotelsResponse.class
+com\majid\availablehotels\business\entities\HotelProvider.class
+com\majid\availablehotels\business\converters\crazyhotels\CrazyResponseConverterImpl.class
+com\majid\availablehotels\business\entities\AvailableHotelsRequest.class
+com\majid\availablehotels\business\entities\AvailableHotelsResponse.class
+com\majid\availablehotels\business\entities\besthotels\BestHotelsRequest.class
+com\majid\availablehotels\business\entities\crazyhotels\CrazyHotelsRequest$CrazyHotelsRequestBuilder.class
+com\majid\availablehotels\business\converters\besthotels\BestHotelsRequestConverterImpl.class
+com\majid\availablehotels\business\entities\crazyhotels\CrazyHotelsResponse$CrazyHotelsResponseBuilder.class
